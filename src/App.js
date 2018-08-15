@@ -11,7 +11,6 @@ class App extends Component {
         <Header />
         <Landing />
         <p>Vijays Portfolio</p>
-        Testing Again
       </div>
     );
   }
