@@ -13,7 +13,7 @@ class App extends Component {
         <Landing />
         <Skills />
         <p>Vijays Portfolio</p>
-        Testing
+        Testing Again
       </div>
     );
   }
