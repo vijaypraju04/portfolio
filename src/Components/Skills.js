@@ -5,3 +5,5 @@ const Skills = () => {
     <div>Skill List</div>
   )
 }
+
+export const Skills
