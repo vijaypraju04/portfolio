@@ -6,6 +6,7 @@ const Landing = () => {
   return(
     <div>
     <Skills/>
+    <ProjectList/>
     </div>
   )
 }
