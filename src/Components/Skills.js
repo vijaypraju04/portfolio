@@ -3,6 +3,7 @@ import React from 'react'
 const Skills = () => {
   return(
     <div>
+      <h1>Skills & Experience</h1>
       <h3>Languages</h3>
         <ul>
           <li>Javascript</li>
