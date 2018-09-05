@@ -7,6 +7,7 @@ const Landing = () => {
     <div>
     <Skills/>
     <ProjectList/>
+    <Experience/>
     </div>
   )
 }
