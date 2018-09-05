@@ -6,6 +6,8 @@ const Experience () => {
       <h1>Experience</h1>
       <ul>
         <li>WatShout</li>
+        <li>Mine4Now</li>
+        <li>GoodRipple</li>
       </ul>
     </div>
   )
