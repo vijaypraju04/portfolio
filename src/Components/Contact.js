@@ -7,7 +7,8 @@ const Contact = () => {
       <h4>Title: Software Developer</h4>
       <h4>Location: San Francisco, CA</h4>
       <h4>Github: github.com/vijaypraju04 </h4>
-
     </div>
   )
 }
+
+export default Contact;
