@@ -9,3 +9,5 @@ const ProjectItem = () => {
     </div>
   )
 }
+
+export default ProjectItem;
