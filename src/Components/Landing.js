@@ -9,6 +9,7 @@ const Landing = () => {
     <Skills/>
     <ProjectList/>
     <Experience/>
+    <Contact/>
     </div>
   )
 }
